@@ -58,7 +58,8 @@
       "required": [
         "title",
         "description",
-        "pubDate"
+        "pubDate",
+        "tags"
       ],
       "additionalProperties": false
     }
