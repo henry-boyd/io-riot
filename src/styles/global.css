@@ -1,11 +1,7 @@
-
-
 @font-face {
 	font-family: "JetBrains Mono", monospace;
 	src: url('/fonts/atkinson-bold.woff') format('woff');
-	font-weight: <weight>;
 	font-style: normal;
-
 }
 
 
@@ -261,6 +257,19 @@ img, video {
   object-fit: contain;
   overflow: hidden;
 }
+
+.tiktok-embed {
+  display: block;
+  max-width: 300px;
+}
+
+.quote-section {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+}
+
 img {
   font-style: italic;
   color: var(--text-color-alt);

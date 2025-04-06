@@ -2,7 +2,7 @@
 title: The United States Finally Makes the TikTok Ban A Thing
 description: Looks like no one thought of the children (insert ticking clock puns here)
 pubDate: 'April 04 2024'
-heroImage: '/src/media/The United States Finally Makes the TikTok Ban A Thing/TikTokLogofeatured.png'
+heroImage: '/media/The United States Finally Makes the TikTok Ban A Thing/TikTokLogofeatured.png'
 tags:
   - news
   - policy

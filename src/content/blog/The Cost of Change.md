@@ -2,7 +2,7 @@
 title: The Cost of Change
 description: aka the role of quarters (pun very much intended)
 pubDate: 'June 06 2023'
-heroImage: '/src/media/The Cost of Change/Parking Meter.png'
+heroImage: '/media/The Cost of Change/Parking Meter.png'
 tags:
   - culture
 ---
@@ -15,7 +15,7 @@ The old meters had been retrofitted with credit card readers, so they were alrea
 
 At face value there is nothing wrong with updated technology. The kiosk still takes cash and coins, so we aren't looking at issues such as economic inequality or access like you see from businesses trending toward cashless operations. Likewise, the new interface is more efficient, legible, and fast than the old meters with their painfully slow card readers. But there was one (hopefully) unintended consequence that stood out to me from this newly introduced technology. This new parking meter system assigns payments based on license plate numbers instead of the traditional, perhaps old-fashioned, meter system where every spot had a meter and any payment was applied to that spot. So as soon as you drive away any leftover parking time leaves with you. It takes me maybe 15 minutes, tops, to walk to the bank and buy my quarter rolls. Usually I exit the neighborhood with more than ample time left in my one hour minimum. I can't share those leftovers anymore, provide a thankless and anonymous donation to whichever fellow human being happens to take over for my spot as I pull out. Instead those forty-something minutes just disappear into thin air, or the city's coffers to be more accurate. I found the loss of this minuscule human connection and chance at goodwill more upsetting than I would have imagined.
 
-<div><img class="note-image-styling" src="/src/media/The Cost of Change/Parking Meter Sign.png"></img></div>
+<div><img class="note-image-styling" src="/media/The Cost of Change/Parking Meter Sign.png"></img></div>
 
 It's no great insight to proclaim technology can be used for good or evil. But I think beyond the question of intent and the debate surrounding it, there's a much more interesting question: what are the unintended consequences of these technologies? We're long past a time where the introduction of new inventions and the resulting shifts happened in the span of years or decades. The rippling effect of technology has changed to a torrent in the new millennium. New innovations can now release, explode, and fade to obscurity all in a matter of hours. Touching and potentially destabilizing every facet of society you can imagine: politics, global affairs, economics, pop culture, religion, the list goes on. Cultural paradigms are being redefined on a global scale in the blink of an eye, all brought on by digital abstractions made from 1s and 0s. And I think there's a trend in tech to focus solely on intentions, turning a blind eye to anything else that falls outside that notion.
 
