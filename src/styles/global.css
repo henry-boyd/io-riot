@@ -206,6 +206,12 @@ table {
   margin: 0 0 calc(var(--line-height) * 2);
 }
 
+.embedded-video {
+  display: block;
+  margin: auto;
+  padding: 1rem 0;
+}
+
 th, td {
   border: var(--border-thickness) solid var(--text-color);
   padding: 
@@ -250,6 +256,7 @@ p {
 
 img, video {
   display: block;
+  max-height: 500px;
   width: 100%;
   object-fit: contain;
   overflow: hidden;

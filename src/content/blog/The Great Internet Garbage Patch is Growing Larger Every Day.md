@@ -2,7 +2,7 @@
 title: The Great Internet Garbage Patch is Growing Larger Every Day
 description: AI Denzel Washington motivational deepfakes are the portent of our doom
 pubDate: 'Jan 02 2025'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/src/media/The Great Internet Garbage Patch is Growing Larger Every Day/IncredulousDenzelWashingtonfeatured.png'
 tags:
   - culture
 ---
@@ -35,7 +35,7 @@ In all my internet sleuthing I didn't find any evidence Denzel Washington has ev
 
 Besides this Denzel deluge I've seen similar patterns everywhere in my corner of the internet: social media feeds for every app have slightly more low-quality sponsored content and advertisements to scroll past. Friend requests from spam accounts sending phishing links or pornography are increasing in frequency. Search engine results have a little bit more junk we need to wade through to find the answers we need than they used to. Even more isolated areas of content don't seem to be immune to this onslaught (just ask the scientific community about their recent [dubious research results](https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/) or [peer reviews](https://arxiv.org/pdf/2403.07183.pdf)). The junk and spam seeping into the internet is steadily increasing in velocity and volume and as a result I find myself spending more of my time filtering through meaningless and worthless pieces of content. Or put more simply, the internet is filling up with garbage. And more than usual.
 
-<div><img class="note-image-styling" src="./assets/The Great Internet Garbage Patch is Growing Larger Every Day/Ocean Garbage.png"></img></div>
+<div><img src="/src/media/The Great Internet Garbage Patch is Growing Larger Every Day/Ocean Garbage.png"></img></div>
 
 It's like a For You page but with less reposts
 
@@ -51,9 +51,12 @@ So what does all of this mean for the future of our internet? To put it simply, 
 
 My fear is that two versions of the internet will emerge because of this influx of garbage. One will be a well-maintained walled garden, full of mostly pleasant actual human people and an overall enjoyable place to visit with a nice barrier keeping out most but probably not all of the junk. And the other will be a true internet hellscape: inundated with low-quality content, spewing endlessly repetitive knockoffs of original thoughts at you, [reduced to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/), with fake people hawking nonsense goods & services and constant waves of spam ads knocking you down with every click. And the the only factor separating the two will be price.
 
-<div><img class="note-image-styling" src="./assets/The Great Internet Garbage Patch is Growing Larger Every Day/Inequality Divide.png"></img></div>
+<div>
+  <img src="/src/media/The Great Internet Garbage Patch is Growing Larger Every Day/Inequality Divide.png"></img>
+  Meet your new internets! (Not to be on the nose or anything)
+</div>
 
-Meet your new internets! (Not to be on the nose or anything)
+
 
 Content moderation costs companies a lot of time, money, and headache depending on who finds themselves being moderated. Which is why recently we've seen some shy away from moderation in favor of a free-for-all moderation ecosystem (to dubious results I might add). But other companies are finding little alternative but to ramp up content moderation efforts leading to rising costs that cut into revenue. And these two approaches may create a digital rift between the haves and the have-nots. We’ve already seen this to some extent with the recent influx of ad-free vs. ad-supported streaming options (proving that cost is once again the ultimate deciding factor as we saw with the “free” ad-supported TV so many people signed onto). If that happens there’s going to be an economic separation of tech companies that take necessary steps to prevent this influx of low-quality AI content and the ones that don't. And my fear is that this will segregate the internet into two very distinct cultural experiences.
 
