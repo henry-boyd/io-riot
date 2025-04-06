@@ -1,16 +1,12 @@
 ---
-post: true
 title: Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem
-draft: false
+description: The harsh reality of standalone AI is a lot less glamorous than what tech companies have been promising
+pubDate: 'May 05 2024'
+heroImage: '/blog-placeholder-1.jpg'
 tags:
   - gadgets
-description: The harsh reality of standalone AI is a lot less glamorous than what tech companies have been promising
-featuredimagefilename: LousyAIGadgetsfeaturedimage.png
-permalink: 
-date: 2024-05-15
 ---
 
-<div><img class="note-image-styling" src="./assets/Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem/LousyAIGadgetsfeaturedimage.png"></div>
 
 With the long-anticipated release of the Humane AI Pin and the Rabbit R1 the first wave of standalone AI gadgets have arrived in consumer's hands. And the response has been… overwhelming negative to say the least.
 

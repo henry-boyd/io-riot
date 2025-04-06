@@ -2,12 +2,12 @@
 title: 'Markdown Style Guide'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Jun 19 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/src/media/Can Less Be More When It Comes To VOD?/A24VODfeaturedimage.png'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 
-## Headings
+## Headings 
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 

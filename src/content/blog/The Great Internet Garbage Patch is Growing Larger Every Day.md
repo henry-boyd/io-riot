@@ -1,16 +1,11 @@
 ---
-post: true
 title: The Great Internet Garbage Patch is Growing Larger Every Day
-draft: false
+description: AI Denzel Washington motivational deepfakes are the portent of our doom
+pubDate: 'Jan 02 2025'
+heroImage: '/blog-placeholder-1.jpg'
 tags:
   - culture
-description: AI Denzel Washington motivational deepfakes are the portent of our doom
-featuredimagefilename: IncredulousDenzelWashington.png
-permalink: 
-date:
 ---
-
-<div><img class="note-image-styling" src="./assets/The Great Internet Garbage Patch is Growing Larger Every Day/Incredulous Denzel Washington.png"></img></div>
 
 If you're someone who regularly uses the internet in their day-to-day life you've probably noticed lately it feels... worse. Not massively worse mind you, but enough to be noticeable here and there. A slightly downgraded experience affecting almost every corner of the internet.
 

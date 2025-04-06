@@ -1,17 +1,12 @@
 ---
-post: true
-title: Can Less Be More when it Comes to VOD?
-draft: false
+title: 'Can Less Be More when it Comes to VOD?'
+description: 'In an industry built on bottomless content, A24’s new VOD service provides stark contrast'
+pubDate: 'Jul 08 2023'
+heroImage: '/blog-placeholder-1.jpg'
 tags:
   - apps
   - news
-description: In an industry built on bottomless content, A24’s new VOD service provides stark contrast
-featuredimagefilename: A24VODfeaturedimage.png
-permalink: 
-date: 2023-12-29
 ---
-
-<div><img src="./assets/Can Less Be More When It Comes To VOD?/A24VODfeaturedimage.png" alt="A24 VOD homepage"></div>
 
 <div class="buttondown-subscribe-box">
       <div class="subscribe-box-content">
