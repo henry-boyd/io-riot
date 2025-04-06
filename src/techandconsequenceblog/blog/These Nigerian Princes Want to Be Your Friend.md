@@ -3,9 +3,8 @@ title: These Nigerian Princes Want to Be Your Friend
 description: I want you to know that I’m here for you… and also your money
 pubDate: 'Nov 11 2023'
 heroImage: '/media/These Nigerian Princes Want to Be Your Friend/GoogleSpamfeatured.png'
-tags:
-  - news
-  - culture
+tags: ["news", "culture"]
+
 ---
 
 I've had the same phone number my entire life, ever since I was gifted a thick brick of a Nokia cell phone the freshmen year of high school. But the price of never changing your number is that a pretty consistent wave of spam texts is constantly sliding into your inbox. It was always a slight annoyance that shifted from humorous to annoying to just plain weird depending on the messages. But ever since Android Messages released its [spam protection](https://www.theverge.com/2019/1/3/18166628/android-messages-spam-protection-privacy-google) updates pretty much all of it has moved straight into my spam inbox, so I haven't had too much to deal with myself. But I still like to check those messages every now and then to make sure I'm not missing anything important (maybe it's more paranoia than anything, so far I haven't ever had a legitimate text accidentally filtered out). And lately I've noticed a slight shift in the tone of the spam texts landing in my inbox.

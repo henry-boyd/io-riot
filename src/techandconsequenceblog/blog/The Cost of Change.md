@@ -3,8 +3,7 @@ title: The Cost of Change
 description: aka the role of quarters (pun very much intended)
 pubDate: 'June 06 2023'
 heroImage: '/media/The Cost of Change/Parking Meter.png'
-tags:
-  - culture
+tags: ["culture"]
 ---
 
 I live in an older apartment building. From a distance it looks entirely unremarkable, in line the rest of the block, but moving closer you can immediately tell the place has been around a while. The exterior brick has long since faded, the carpeted hall floors are just a bit too worn, and the interior white paint is cracking in more than a few spots. The basement laundry room is another notable example of this tired structure's seniority. The building's ancient white machines, probably scavenged from a failed laundromat or the extra stock of a college dorm, only accept coins. So every month or so I drive to the bank and buy a few rolls of quarters for cleaning my clothes. My bank is nestled within the center of a nearby high-end shopping district, and no matter what time I go the place is usually packed. To make matters worse, parking is sparse at best and it's metered only.

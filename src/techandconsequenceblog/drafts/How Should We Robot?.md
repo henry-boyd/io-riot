@@ -1,15 +1,10 @@
 ---
-post: true
 title: How Do We Robot?
-draft: true
-tags:
-  - culture
-  - news
-  - robotics
 description: Tesla's "We, Robot" event was a bit of a nothingburger to put it mildly. But its themes and evocations made me ponder, what is it that we actually want from robots?
-featuredimagefilename: A24VODfeaturedimage.png
-permalink: 
-date: 2024-10-10
+pubDate: 'Oct 10 2024'
+heroImage: '/media/These Nigerian Princes Want to Be Your Friend/GoogleSpamfeatured.png'
+tags:
+  - news
 ---
 
 

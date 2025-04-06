@@ -3,28 +3,10 @@ title: 'Can Less Be More when it Comes to VOD?'
 description: 'In an industry built on bottomless content, A24’s new VOD service provides stark contrast'
 pubDate: 'Jul 08 2023'
 heroImage: '/media/A24VOD/A24VODfeaturedimage.png'
-tags:
-  - apps
-  - news
+tags: ["apps", "news"]
 ---
 
 The first time I remember having too many movie choices was when our local movie rental store (RIP Media Wave) decided to transition to DVDs and offload all of their VHS tapes. At one dollar apiece, I must have spent hours perusing my options to put together the perfect collection to fit my budget. The actual catalog they sold was probably in the hundreds, but back then for a middle schooler that might as well have been infinite options. So naturally I left with twenty dollars worth of [old Godzilla movies](https://www.youtube.com/watch?v=1K4EDfUjpIE).
-
-
-<div class="buttondown-subscribe-box">
-      <div class="subscribe-box-content">
-        <form class="subscribe-form"
-            action="https://buttondown.com/api/emails/embed-subscribe/techandconsequence"
-            method="post"
-            target="popupwindow"
-            onSubmit="window.open('https://buttondown.com/techandconsequence', 'popupwindow')"
-            class="embeddable-buttondown-form"
-            >
-            <input class="subscribe-email-input" type="email" name="email" id="bd-email" placeholder="Enter your email" />
-            <input class="subscribe-submit-button" type="submit" value="Subscribe" />
-        </form>
-    </div>
-  </div>
 
 Nowadays, endless options are a basic requirement when it comes to video on demand. Consumers are presented with more than a few streaming services and video on demand apps that offer thousands of titles, more than one person could ever hope to watch in a lifetime. But recently a new player has entered the scene that offers a smaller catalog of content that is surprisingly refreshing.
 

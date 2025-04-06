@@ -3,9 +3,7 @@ title: The United States Finally Makes the TikTok Ban A Thing
 description: Looks like no one thought of the children (insert ticking clock puns here)
 pubDate: 'April 04 2024'
 heroImage: '/media/The United States Finally Makes the TikTok Ban A Thing/TikTokLogofeatured.png'
-tags:
-  - news
-  - policy
+tags: ["news", "policy"]
 ---
 
 In a somewhat surprising turn of events, this week [the Senate passed](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid) a foreign aid package [soon after signed into law](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package) by President Biden that includes a bill forcing parent company ByteDance to sell off TikTok or risk the app being banned in the US.

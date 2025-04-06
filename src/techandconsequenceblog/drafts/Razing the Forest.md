@@ -1,14 +1,11 @@
 ---
-post: true
 title: Razing the Digital Forest
-draft: true
-tags:
-  - AI
-  - news
 description: With OpenAI's new "Images in ChatGPT" release, life imitates whimsical art
-featuredimagefilename: ghiblifeaturedimage.png
-permalink: 
-date: 2024-03-28
+pubDate: 'April 03 2025'
+heroImage: '/media/These Nigerian Princes Want to Be Your Friend/GoogleSpamfeatured.png'
+tags:
+  - news
+  - culture
 ---
 
 <div><img src="./assets/Irontown is Razing the Digital Forest/ghiblifeaturedimage.png" alt="A24 VOD homepage"></div>
