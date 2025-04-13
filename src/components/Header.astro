@@ -1,6 +1,7 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
+import Search from "astro-pagefind/components/Search";
 ---
 
 <header>
@@ -9,12 +10,13 @@ import { SITE_TITLE } from '../consts';
 		<div class="links-border">
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/tags/news">News</HeaderLink>
-			<HeaderLink href="/tags/culture">Culture</HeaderLink>
-			<HeaderLink href="/tags/policy">Policy</HeaderLink>
+			<HeaderLink href="/news">News</HeaderLink>
+			<HeaderLink href="/culture">Culture</HeaderLink>
+			<HeaderLink href="/policy">Policy</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 		</div>
+		{/* <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} /> */}
 	</nav>
 </header>
 <style>
@@ -23,6 +25,11 @@ import { SITE_TITLE } from '../consts';
 		padding: 0 1em;
 		background: white;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+	}
+
+	#search {
+		max-width: 300px;
+		margin: 0;
 	}
 
 	h1 {

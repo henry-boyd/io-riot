@@ -32,7 +32,8 @@ const posts = (await getCollection('blog')).sort(
 			}
 			ul li {
 				width: 100%;
-				margin: 1rem 0;
+				padding: 1rem 0;
+				border-top: 1px solid black;
 			}
 			ul li * {
 				text-decoration: none;
@@ -92,6 +93,7 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<section>
+				<h2>Latest News</h2>
 				<ul>
 					{
 						posts.map((post) => (
