@@ -24,6 +24,10 @@ const posts = (await getCollection('blog')).sort(
 			body {
 				max-width: calc(min(110ch, round(down, 100%, 1ch)));
 			}
+			img {
+				max-width: 400px;
+				height: 300px;
+			}
 			ul {
 				display: grid;
 				list-style-type: none;
@@ -68,16 +72,19 @@ const posts = (await getCollection('blog')).sort(
 				box-shadow: var(--box-shadow);
 			}
 			@media (max-width: 900px) {
+				img {
+					max-width: none;
+					height: auto;
+					min-height: 300px;
+				}
 				ul {
 					gap: 0.5em;
 				}
 				ul li {
 					width: 100%;
-					text-align: center;
 				}
 				ul li a {
 				display: grid;
-				align-items: center;
 				}
 				ul li img {
 				margin-right: auto;
@@ -85,9 +92,7 @@ const posts = (await getCollection('blog')).sort(
 				width: 100%;
 				}
 				.post-info {
-					max-width: 40ch;
-					margin-right: auto;
-					margin-left: auto;
+					max-width: 45ch;
 				}
 			}
 		</style>
@@ -105,11 +110,11 @@ const posts = (await getCollection('blog')).sort(
 									<img src={post.data.heroImage} alt="" />
 									<div class="post-info">
 										<h2 class="title">{post.data.title}</h2>
-										<p class="date">
-											<FormattedDate date={post.data.pubDate} />
-										</p>
 										<p class="description">
 											{post.data.description}
+										</p>
+										<p class="date">
+											<FormattedDate date={post.data.pubDate} />
 										</p>
 									</div>
 								</a>
