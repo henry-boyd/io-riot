@@ -13,7 +13,7 @@ The reception for OpenAI's new GPT-5 model was less than stellar by most account
 So with all the hubbub surrounding this model's release it's easy to understand why OpenAI's [announcement of GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo) has been mostly forgotten. Yes the presentation felt a bit underwhelming and sure there were a couple of fairly egregious chart crimes being referred to as “[vibe graphing,](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)” but why bother dwelling on such a tiny piece of the tech world? Yet here we are over a month later and I'm still thinking about that presentation, or more specifically OpenAI's bar graph snafus within that presentation.
 
 <div style="text-align: center;">
-  <img src="/media/Too Important For Vibe Graphing/AcademicWide.png"></img>
+  <img src="/media/TooImportantForVibeGraphing/AcademicWide.png"></img>
   This Chart title is way too on the nose
 </div>
 
@@ -22,8 +22,8 @@ I feel conflicted about the whole thing: On the one hand, I can absolutely under
 
 <div style="text-align: center;">
 	<div style="text-align: center; display: flex; justify-content: center;">
-		  <img src="/media/Too Important For Vibe Graphing/DeceptionEvalsClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
-		  <img src="/media/Too Important For Vibe Graphing/AcademicClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
+		  <img src="/media/TooImportantForVibeGraphing/DeceptionEvalsClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
+		  <img src="/media/TooImportantForVibeGraphing/AcademicClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
 	  </div>
   I mean come on, seriously?!
 </div>
