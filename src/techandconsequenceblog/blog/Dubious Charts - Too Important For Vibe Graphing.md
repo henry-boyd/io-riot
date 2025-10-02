@@ -1,11 +1,9 @@
 ---
 title: Dubious Charts - Too Important For Vibe Graphing
-description: OpenAI was caught with some less-than-visually-accurate charts in its GPT-5 presentation, but this is a symptom of an even larger problem. Aka number go up at any cost does not a good chart make.
-pubDate: Sept 21 2025
-heroImage: /media/Too Important For Vibe Graphing/DeceptionEvalsWidefeatured.png
-tags:
-  - charts
-  - news
+description: OpenAI was caught with some less-than-visually-accurate charts in its GPT-5 presentation, but this is a symptom of an even larger problem. Aka number go up at any cost does not a good chart make
+pubDate: 'Sept 21 2025'
+heroImage: '/media/TooImportantForVibeGraphing/DeceptionEvalsWidefeatured.png'
+tags: ["charts", "news"]
 ---
 (Dubious Charts is a data-focused project that sometimes makes an appearance on Tech & Consequence. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
 
