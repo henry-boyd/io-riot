@@ -13,7 +13,7 @@ The reception for OpenAI's new GPT-5 model was less than stellar by most account
 So with all the hubbub surrounding this model's release it's easy to understand why OpenAI's [announcement of GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo) has been mostly forgotten. Yes the presentation felt a bit underwhelming and sure there were a couple of fairly egregious chart crimes being referred to as “[vibe graphing,](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)” but why bother dwelling on such a tiny piece of the tech world? Yet here we are over a month later and I'm still thinking about that presentation, or more specifically OpenAI's bar graph snafus within that presentation.
 
 <div style="text-align: center;">
-  <img src="/media/Too Important For Vibe Graphing/DeceptionEvalsWide.png"></img>
+  <img src="/media/Too Important For Vibe Graphing/AcademicWide.png"></img>
   This Chart title is way too on the nose
 </div>
 
