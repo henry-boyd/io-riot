@@ -1,9 +1,9 @@
 ---
-title: Dubious Charts - Too Important For Vibe Graphing
+title: Too Important For Vibe Graphing (Dubious Charts)
 description: OpenAI was caught with some less-than-visually-accurate charts in its GPT-5 presentation, but this is a symptom of an even larger problem. Aka number go up at any cost does not a good chart make
 pubDate: 'Sept 21 2025'
 heroImage: '/media/TooImportantForVibeGraphing/DeceptionEvalsWidefeatured.png'
-tags: ["charts", "news"]
+tags: ["dubious charts", "news"]
 ---
 (Dubious Charts is a data-focused project that sometimes makes an appearance on Tech & Consequence. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
 
@@ -14,7 +14,7 @@ So with all the hubbub surrounding this model's release it's easy to understand 
 
 <div style="text-align: center;">
   <img src="/media/TooImportantForVibeGraphing/AcademicWide.png"></img>
-  This Chart title is way too on the nose
+  One of these is not like the others
 </div>
 
 I feel conflicted about the whole thing: On the one hand, I can absolutely understand how these mistakes could’ve been the result of last-minute crunch. I've been there myself, rushing to get in a few last-minute changes to a slide deck or make one last graph only to realize mid-presentation that I left out a label or mistyped a number. But part of me also finds it hard to believe that a presentation from a company as big as OpenAI wouldn't have passed through more than a few different hands before arriving at a final version. And the tinfoil hat conspiracy theorist in me finds it a little too convenient that every chart error was to OpenAI's benefit.
