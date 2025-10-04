@@ -115,9 +115,15 @@ body {
   width: 100%;
   margin: 0;
   padding: var(--line-height) 2ch;
-  max-width: calc(min(80ch, round(down, 100%, 1ch)));
-       line-height: var(--line-height);
+  max-width: calc(min(110ch, round(down, 100%, 1ch)));
+  line-height: var(--line-height);
   overflow-x: hidden;
+}
+
+main {
+    max-width: calc(min(80ch, round(down, 100%, 1ch)));
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (max-width: 480px) {
@@ -270,9 +276,14 @@ img, video {
   font-style: italic;
 }
 
-img {
+.img-section {
+  text-align: center;
   font-style: italic;
   color: var(--text-color-alt);
+  padding: 1rem 0;
+}
+.img-section > img {
+  padding-bottom: .5rem;
 }
 
 details {

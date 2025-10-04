@@ -71,6 +71,9 @@ const posts = (await getCollection('blog')).sort(
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
+			.post-info {
+				max-width: 45ch;
+			}
 			@media (max-width: 900px) {
 				img {
 					max-width: none;
@@ -90,9 +93,6 @@ const posts = (await getCollection('blog')).sort(
 				margin-right: auto;
 				margin-left: auto;
 				width: 100%;
-				}
-				.post-info {
-					max-width: 45ch;
 				}
 			}
 		</style>

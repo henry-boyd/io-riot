@@ -29,7 +29,7 @@ In all my internet sleuthing I didn't find any evidence Denzel Washington has ev
 
 Besides this Denzel deluge I've seen similar patterns everywhere in my corner of the internet: social media feeds for every app have slightly more low-quality sponsored content and advertisements to scroll past. Friend requests from spam accounts sending phishing links or pornography are increasing in frequency. Search engine results have a little bit more junk we need to wade through to find the answers we need than they used to. Even more isolated areas of content don't seem to be immune to this onslaught (just ask the scientific community about their recent [dubious research results](https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/) or [peer reviews](https://arxiv.org/pdf/2403.07183.pdf)). The junk and spam seeping into the internet is steadily increasing in velocity and volume and as a result I find myself spending more of my time filtering through meaningless and worthless pieces of content. Or put more simply, the internet is filling up with garbage. And more than usual.
 
-<div style="text-align: center;">
+<div class="img-section">
 <img src="/media/The Great Internet Garbage Patch is Growing Larger Every Day/Ocean Garbage.png"></img>
 It's like a For You page but with less reposts
 </div>
@@ -48,7 +48,7 @@ So what does all of this mean for the future of our internet? To put it simply, 
 
 My fear is that two versions of the internet will emerge because of this influx of garbage. One will be a well-maintained walled garden, full of mostly pleasant actual human people and an overall enjoyable place to visit with a nice barrier keeping out most but probably not all of the junk. And the other will be a true internet hellscape: inundated with low-quality content, spewing endlessly repetitive knockoffs of original thoughts at you, [reduced to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/), with fake people hawking nonsense goods & services and constant waves of spam ads knocking you down with every click. And the the only factor separating the two will be price.
 
-<div style="text-align: center;">
+<div class="img-section">
   <img src="/media/The Great Internet Garbage Patch is Growing Larger Every Day/Inequality Divide.png"></img>
   Meet your new internets! (Not to be on the nose or anything)
 </div>

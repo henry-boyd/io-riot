@@ -1,9 +1,9 @@
 ---
-title: Too Important For Vibe Graphing (Dubious Charts)
-description: OpenAI was caught with some less-than-visually-accurate charts in its GPT-5 presentation, but this is a symptom of an even larger problem. Aka number go up at any cost does not a good chart make
+title: The Graph Vibes Are Off (Dubious Charts)
+description: OpenAI's chart crimes are symptoms of a larger problem. Aka the straw that broke the camel's y-axis (I know I hate me too)
 pubDate: 'Sept 21 2025'
 heroImage: '/media/TooImportantForVibeGraphing/DeceptionEvalsWidefeatured.png'
-tags: ["dubious charts", "news"]
+tags: ["dubious-charts", "news"]
 ---
 (Dubious Charts is a data-focused project that sometimes makes an appearance on Tech & Consequence. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
 
@@ -12,18 +12,18 @@ The reception for OpenAI's new GPT-5 model was less than stellar by most account
 
 So with all the hubbub surrounding this model's release it's easy to understand why OpenAI's [announcement of GPT-5](https://www.youtube.com/watch?v=0Uu_VJeVVfo) has been mostly forgotten. Yes the presentation felt a bit underwhelming and sure there were a couple of fairly egregious chart crimes being referred to as “[vibe graphing,](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)” but why bother dwelling on such a tiny piece of the tech world? Yet here we are over a month later and I'm still thinking about that presentation, or more specifically OpenAI's bar graph snafus within that presentation.
 
-<div style="text-align: center;">
+<div class="img-section">
   <img src="/media/TooImportantForVibeGraphing/AcademicWide.png"></img>
-  One of these is not like the others
+  One of these things is not like the others
 </div>
 
 I feel conflicted about the whole thing: On the one hand, I can absolutely understand how these mistakes could’ve been the result of last-minute crunch. I've been there myself, rushing to get in a few last-minute changes to a slide deck or make one last graph only to realize mid-presentation that I left out a label or mistyped a number. But part of me also finds it hard to believe that a presentation from a company as big as OpenAI wouldn't have passed through more than a few different hands before arriving at a final version. And the tinfoil hat conspiracy theorist in me finds it a little too convenient that every chart error was to OpenAI's benefit.
 
 
-<div style="text-align: center;">
-	<div style="text-align: center; display: flex; justify-content: center;">
-		  <img src="/media/TooImportantForVibeGraphing/DeceptionEvalsClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
-		  <img src="/media/TooImportantForVibeGraphing/AcademicClose.png" style="border: 1px solid black; height: 350px; width: 300px; margin: 0px; object-fit: fill;"></img>
+<div class="img-section">
+	<div style="display: flex; justify-content: center; padding-bottom: .5rem;">
+		  <img src="/media/TooImportantForVibeGraphing/DeceptionEvalsClose.png" style="border: 1px solid black; height: 350px; max-width: 50%; margin: 0px; object-fit: fill;"></img>
+		  <img src="/media/TooImportantForVibeGraphing/AcademicClose.png" style="border: 1px solid black; height: 350px; max-width: 50%; margin: 0px; object-fit: fill;"></img>
 	  </div>
   I mean come on, seriously?!
 </div>

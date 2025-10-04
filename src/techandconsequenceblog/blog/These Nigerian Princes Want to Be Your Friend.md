@@ -9,7 +9,7 @@ tags: ["news", "culture"]
 
 I've had the same phone number my entire life, ever since I was gifted a thick brick of a Nokia cell phone the freshmen year of high school. But the price of never changing your number is that a pretty consistent wave of spam texts is constantly sliding into your inbox. It was always a slight annoyance that shifted from humorous to annoying to just plain weird depending on the messages. But ever since Android Messages released its [spam protection](https://www.theverge.com/2019/1/3/18166628/android-messages-spam-protection-privacy-google) updates pretty much all of it has moved straight into my spam inbox, so I haven't had too much to deal with myself. But I still like to check those messages every now and then to make sure I'm not missing anything important (maybe it's more paranoia than anything, so far I haven't ever had a legitimate text accidentally filtered out). And lately I've noticed a slight shift in the tone of the spam texts landing in my inbox.
 
-<div><img class="note-image-styling" src="/media/These Nigerian Princes Want to Be Your Friend/Spam & Blocked List.png"></div>
+<div class="img-section"><img src="/media/These Nigerian Princes Want to Be Your Friend/Spam & Blocked List.png"></div>
 
 I feel like the belle of the ball!
 
@@ -17,9 +17,11 @@ Back in my day (sorry, I know) the spam texts I received were a pretty typical a
 
 But probably since at least the tail end of 2022 I started to notice that a lot of these scammers switched to a slightly different strategy to try and rope me in. More and more of these text messages showed an emotional angle, starting with just an opening salutation instead of going straight to that call to action I'm sure most of us see right through. Now we've had scammers trying to build fake romantic relationships since before we even had cellphones. Preying on people's vulnerabilities is nothing new. But these scammers, at least from my experience, start by trying to establish a very simple and platonic rapport with their victims. Either just a simple hello, or something a little more complex to start an actual conversation with me. And you know what? It kind of worked, at least for a little while.
 
-<div style="display: flex; justify-content: center;">
-<div><img src="/media/These Nigerian Princes Want to Be Your Friend/Text Scammer (Horseback Riding).png"></div>
-<div><img src="/media/These Nigerian Princes Want to Be Your Friend/Text Scammer Conversation.png"></div>
+<div class="img-section">
+    <div style="display: flex; justify-content: center;">
+        <img src="/media/These Nigerian Princes Want to Be Your Friend/Text Scammer (Horseback Riding).png">
+        <img src="/media/These Nigerian Princes Want to Be Your Friend/Text Scammer Conversation.png">
+    </div>
 </div>
 
 I actually responded to the first few of these messages before I caught on and disengaged. I meet my fair share of new people and I'm terrible at keeping track of names, numbers, or where I'm supposed to know someone from. So it's not outside the realm of possibilities that someone slipped through the cracks of my contact list. A few of these scammers received a very pleasant "I'm so sorry I don't have this number, who is this?" message from me. And just like that they were in! Not surprisingly a lot of them blew their chance immediately upon their second message, but a few persevered beyond that. I even had one apologize so profusely for accidentally texting me it felt like the digital equivalent of prostrating themselves before me out of shame. The plan was just plain silly, but I can definitely see how someone might be pulled into a conversation at the sight of a pitifully apologetic stranger who could use some reassurance. Of course after the first few I picked up on the play and stopped engaging. But a part me really enjoyed this conversational tactic despite knowing the endgame was to steal my money or identity or what have you. The idea was so simple and so much more humane, even kind of touching in the way it was based on real human connection. Like a scam-based version of Omegle ([RIP](https://www.theverge.com/2023/11/9/23953620/omegle-anonymous-video-chat-shut-down-online-safety)), pairing me up with a stranger probably halfway around world. As an average person I found the whole experience kind of novel. I'd bet for the intended targets, the most vulnerable and lonely of us, this strategy may be pretty effective.
@@ -53,4 +55,4 @@ It's interesting to see the changes over just one year, but I'd be very interest
 
 Most of this is based on anecdotal evidence, so I can't say for certain if this is a real trend or I'm just a lucky beta tester for this newly-emerging scam. But I've reached out to a few of these scam texts to see if I can spark some conversations with my new potential friends. Part of me fears that if the messages I responded to are all from the same scammer that I'll come off as desperate and they will go to ground. Only time will tell!
 
-<div><img src="/media/These Nigerian Princes Want to Be Your Friend/Apologetic Text Scammer.png"></div>
+<div class="img-section"><img src="/media/These Nigerian Princes Want to Be Your Friend/Apologetic Text Scammer.png"></div>
