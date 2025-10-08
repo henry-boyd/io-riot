@@ -13,10 +13,10 @@ tags:
 <div class="buttondown-subscribe-box">
       <div class="subscribe-box-content">
         <form class="subscribe-form"
-            action="https://buttondown.com/api/emails/embed-subscribe/techandconsequence"
+            action="https://buttondown.com/api/emails/embed-subscribe/ioriot"
             method="post"
             target="popupwindow"
-            onSubmit="window.open('https://buttondown.com/techandconsequence', 'popupwindow')"
+            onSubmit="window.open('https://buttondown.com/ioriot', 'popupwindow')"
             class="embeddable-buttondown-form"
             >
             <input class="subscribe-email-input" type="email" name="email" id="bd-email" placeholder="Enter your email" />
