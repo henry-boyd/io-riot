@@ -9,9 +9,10 @@ tags: ["news", "culture"]
 
 I've had the same phone number my entire life, ever since I was gifted a thick brick of a Nokia cell phone the freshmen year of high school. But the price of never changing your number is that a pretty consistent wave of spam texts is constantly sliding into your inbox. It was always a slight annoyance that shifted from humorous to annoying to just plain weird depending on the messages. But ever since Android Messages released its [spam protection](https://www.theverge.com/2019/1/3/18166628/android-messages-spam-protection-privacy-google) updates pretty much all of it has moved straight into my spam inbox, so I haven't had too much to deal with myself. But I still like to check those messages every now and then to make sure I'm not missing anything important (maybe it's more paranoia than anything, so far I haven't ever had a legitimate text accidentally filtered out). And lately I've noticed a slight shift in the tone of the spam texts landing in my inbox.
 
-<div class="img-section"><img src="/media/These Nigerian Princes Want to Be Your Friend/Spam & Blocked List.png"></div>
-
+<div class="img-section"><img src="/media/These Nigerian Princes Want to Be Your Friend/Spam & Blocked List.png">
 I feel like the belle of the ball!
+</div>
+
 
 Back in my day (sorry, I know) the spam texts I received were a pretty typical assortment of scams: Nigerian princes or some other obscure person(s) looking for cash assistance to free an obscene amount of money during trying times, wrong numbers that morphed into propositions from definitely-real-human women, or any number of fake emergency notifications from my bank, the IRS, or some other authority figure threatening the loss of all my money. The joke's on them though, I don't have any money!
 
@@ -55,4 +56,4 @@ It's interesting to see the changes over just one year, but I'd be very interest
 
 Most of this is based on anecdotal evidence, so I can't say for certain if this is a real trend or I'm just a lucky beta tester for this newly-emerging scam. But I've reached out to a few of these scam texts to see if I can spark some conversations with my new potential friends. Part of me fears that if the messages I responded to are all from the same scammer that I'll come off as desperate and they will go to ground. Only time will tell!
 
-<div class="img-section"><img src="/media/These Nigerian Princes Want to Be Your Friend/Apologetic Text Scammer.png"></div>
+<div class="img-section" style="display: flex; justify-content: center;"><img src="/media/These Nigerian Princes Want to Be Your Friend/Apologetic Text Scammer.png" style="max-width: 600px"></div>
