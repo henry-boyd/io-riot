@@ -5,7 +5,7 @@ pubDate: 'Sept 21 2025'
 heroImage: '/media/TooImportantForVibeGraphing/DeceptionEvalsWidefeatured.png'
 tags: ["dubious-charts", "news"]
 ---
-(Dubious Charts is a data-focused project that sometimes makes an appearance on IO Riot. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
+(Dubious Charts is a data-focused project I'm starting that will sometimes make an appearance on IO Riot. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
 
 
 The reception for OpenAI's new GPT-5 model was less than stellar by most accounts ([1](https://www.theverge.com/openai/759755/gpt-5-failed-the-hype-test-sam-altman-openai), [2](https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/), [3](https://futurism.com/gpt-5-disaster)); everybody seemed to have one reason or another for disliking this new model, whether it was the disappearance of ChatGPT's "personality" traits or just the model's overall effectiveness.
