@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "40c5ba1fbaecd4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "026f2e5889c0789a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "650b47a4d07027e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ioriotblog/drafts/Where's Your Rage?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where's Your Rage?"
+            }
+          },
+          {
+            "id": "851d5181973780b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ioriotblog/drafts/Quit Trying to Make Copilot Happen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Quit Trying to Make Copilot Happen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63f6c9f51a005b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c6933b96f51e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53423eb3ad9b5b6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ecf0ecca63113a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97ff8314ee6badef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "267b134cfad212ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e809adebc15b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed22b5ee215189cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ioriotblog/drafts/Where's Your Rage?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Where's Your Rage?"
+            }
+          },
+          {
+            "id": "b741200f8f3521f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ioriotblog/drafts/Where's Your Rage?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Where's Your Rage?"
+            }
+          },
+          {
+            "id": "eb8746f3e9f8e35d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "144080d61192a55d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ioriotblog/drafts/Where's Your Rage?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Where's Your Rage?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "650b47a4d07027e8",
+  "lastOpenFiles": [
+    "ioriotblog/drafts/Quit Trying to Make Copilot Happen.md",
+    "ioriotblog/drafts/Where's Your Rage?.md",
+    "ioriotblog/drafts/templates/article-template.md",
+    "ioriotblog/drafts/Razing the Creative Forest.md",
+    "ioriotblog/blog/The Cost of Change.md",
+    "ioriotblog/drafts/Lars and the Unreal Girl.md",
+    "ioriotblog/drafts/How Should We Robot?.md",
+    "ioriotblog/drafts/Easing the Ritual.md",
+    "ioriotblog/drafts/Crowdfunding Prophecy.md",
+    "ioriotblog/blog/Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem.md",
+    "assets",
+    "untitled folder"
+  ]
+}

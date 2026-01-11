@@ -1,5 +1,5 @@
 ---
-title: Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem
+title: Lousy Gadgets are Shining a Spotlight on AI's Biggest Problems
 description: The harsh reality of standalone AI is a lot less glamorous than what tech companies have been promising
 pubDate: 'May 05 2024'
 heroImage: '/media/LousyAIGadgets/LousyAIGadgetsfeatured.png'
@@ -26,7 +26,6 @@ There’s an implicit trust we have in the devices we use every day and that tru
 
 <div style="display: flex; justify-content: space-evenly;">
 <div>
-
 - **Humane AI Pin**
     - [Engadget](https://www.engadget.com/the-humane-ai-pin-is-the-solution-to-none-of-technologys-problems-120002469.html)
     - [MKBHD](https://www.youtube.com/watch?v=TitZV6k8zfA)
@@ -35,7 +34,6 @@ There’s an implicit trust we have in the devices we use every day and that tru
     - [The Verge](https://www.theverge.com/24126502/humane-ai-pin-review)
 </div>
 <div>
-
 - **Rabbit R1**
     - [Mashable](https://mashable.com/review/rabbit-r1)
     - [MKBHD](https://www.youtube.com/watch?v=ddTV12hErTc)
