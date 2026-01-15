@@ -13,6 +13,8 @@ I am pissed. Royally pissed.
 
 The internet is getting worse all the time. Day by day, update by update, the good parts of our online communities and services are being undermined on the altar of a few more clicks and a handful of dollars.
 
+There's an abject cruelty that has spread to every corner of the world, 
+
 - Prediction markets
 - Shitty software getting worse by the day, kicking and screaming to wrench every last penny (nickel) out of your pockets
 - Egotistical tech billionaires surrounded by yes-men and women who think they alone know what everyone wants and needs
