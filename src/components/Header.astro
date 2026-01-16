@@ -2,6 +2,7 @@
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../consts';
 import Search from "astro-pagefind/components/Search";
+import ButtondownSubscribeHeader from "./ButtondownSubscribeHeader.astro";
 ---
 
 <header>
@@ -10,12 +11,10 @@ import Search from "astro-pagefind/components/Search";
 		<div class="links-border">
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/news">News</HeaderLink>
-			<HeaderLink href="/culture">Culture</HeaderLink>
-			<HeaderLink href="/policy">Policy</HeaderLink>
 			<HeaderLink href="/dubious-charts">Charts</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
+			<ButtondownSubscribeHeader></ButtondownSubscribeHeader>
 		</div>
 		{/* <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} /> */}
 	</nav>
@@ -38,7 +37,11 @@ import Search from "astro-pagefind/components/Search";
 	}
 
 	.links-border {
+		display: flex;
+		justify-content: center;
+		grid-gap: 1rem;
 		width: 100%;
+		padding: 1rem 0;
 		border-top: 1px solid black;
 		border-bottom: 1px solid black;
 	}
@@ -47,7 +50,6 @@ import Search from "astro-pagefind/components/Search";
 		margin: 0;
 		display: flex;
 		justify-content: center;
-		padding: 1rem 6rem;
 	}
 
 	nav a {

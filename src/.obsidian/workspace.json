@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "650b47a4d07027e8",
+  "active": "53423eb3ad9b5b6e",
   "lastOpenFiles": [
+    "components/ButtondownSubscribeHeader.astro",
+    "components/ButtondownSubscribe copy.astro",
+    "ioriotblog/Archive",
     "ioriotblog/drafts/Quit Trying to Make Copilot Happen.md",
     "ioriotblog/drafts/Where's Your Rage?.md",
     "ioriotblog/drafts/templates/article-template.md",

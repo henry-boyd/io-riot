@@ -3,7 +3,7 @@ title: The Graph Vibes Are Off (Dubious Charts)
 description: OpenAI's chart crimes are symptoms of a larger problem. Aka the straw that broke the camel's y-axis (I know I hate me too)
 pubDate: 'Sept 21 2025'
 heroImage: '/media/TooImportantForVibeGraphing/DeceptionEvalsWidefeatured.png'
-tags: ["dubious-charts", "news"]
+tags: ["dubious-charts"]
 ---
 (Dubious Charts is a data-focused project I'm starting that will sometimes make an appearance on IO Riot. If you are also a numbers nerd who wants to see more like this I suggest heading over to [dubiouscharts.com](https://dubiouscharts.com/))
 
