@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "Quit Trying to Make Copilot Happen"
             }
+          },
+          {
+            "id": "1fc71bc84f64597a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ioriotblog/drafts/Is Anyone Going to Stand Up to the Billionaire With the Sexual Harassment Nonconsensual Deepfake CSAM Generator?.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Is Anyone Going to Stand Up to the Billionaire With the Sexual Harassment Nonconsensual Deepfake CSAM Generator?"
+            }
           }
         ]
       }
@@ -183,14 +197,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "53423eb3ad9b5b6e",
+  "active": "650b47a4d07027e8",
   "lastOpenFiles": [
+    "ioriotblog/drafts/Is Anyone Going to Stand Up to the Billionaire With the Sexual Harassment Nonconsensual Deepfake CSAM Generator?.md",
+    "ioriotblog/drafts/templates/article-template.md",
+    "ioriotblog/drafts/Quit Trying to Make Copilot Happen.md",
+    "ioriotblog/drafts/Where's Your Rage?.md",
     "components/ButtondownSubscribeHeader.astro",
     "components/ButtondownSubscribe copy.astro",
     "ioriotblog/Archive",
-    "ioriotblog/drafts/Quit Trying to Make Copilot Happen.md",
-    "ioriotblog/drafts/Where's Your Rage?.md",
-    "ioriotblog/drafts/templates/article-template.md",
     "ioriotblog/drafts/Razing the Creative Forest.md",
     "ioriotblog/blog/The Cost of Change.md",
     "ioriotblog/drafts/Lars and the Unreal Girl.md",
