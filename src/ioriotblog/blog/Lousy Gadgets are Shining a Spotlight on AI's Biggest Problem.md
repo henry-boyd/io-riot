@@ -3,7 +3,7 @@ title: Lousy Gadgets are Shining a Spotlight on AI's Biggest Problems
 description: The harsh reality of standalone AI is a lot less glamorous than what tech companies have been promising
 pubDate: 'May 05 2024'
 heroImage: '/media/LousyAIGadgets/LousyAIGadgetsfeatured.png'
-tags: ["gadgets", "AI"]
+tags: ["news", "gadgets", "AI"]
 ---
 
 

@@ -8,9 +8,10 @@ import ButtondownSubscribeHeader from "./ButtondownSubscribeHeader.astro";
 <header>
 	<nav>
 		<h1><a href="/">{SITE_TITLE}</a></h1>
+		<h3>Reset the Net</h3>
 		<div class="links-border">
 		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/news">News</HeaderLink>
 			<HeaderLink href="/dubious-charts">Charts</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
@@ -34,6 +35,14 @@ import ButtondownSubscribeHeader from "./ButtondownSubscribeHeader.astro";
 
 	h1 {
 		text-align: center;
+		margin-bottom: .25rem;
+	}
+	h3 {
+		text-align: center;
+		margin-top: 0;
+		margin-bottom: 2em;
+		font-style: italic;
+		font-weight: 500;
 	}
 
 	.links-border {

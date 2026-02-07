@@ -142,13 +142,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   line-height: calc(2 * var(--line-height));
   margin-bottom: calc(var(--line-height) * 2);
   text-transform: uppercase;
 }
 h2 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
 }
 
