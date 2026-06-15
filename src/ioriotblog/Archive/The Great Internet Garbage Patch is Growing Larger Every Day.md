@@ -1,15 +1,10 @@
 ---
 title: The Great Internet Garbage Patch is Growing Larger Every Day
 description: AI Denzel Washington motivational deepfakes are the portent of our doom
-pubDate: June 14 2026
-heroImage: /media/The Great Internet Garbage Patch is Growing Larger Every Day/IncredulousDenzelWashingtonfeatured.png
-tags:
-  - news
-  - AI
-  - culture
+pubDate: 'Jan 02 2025'
+heroImage: '/media/The Great Internet Garbage Patch is Growing Larger Every Day/IncredulousDenzelWashingtonfeatured.png'
+tags: ["news", "AI", "culture"]
 ---
-
-(I wrote this back at the start of 2025 right when AI slop started taking off and decided to put together an updated article with )
 
 If you're someone who regularly uses the internet in their day-to-day life you've probably noticed lately it feels... worse. Not massively worse mind you, but enough to be noticeable here and there. A slightly downgraded experience affecting almost every corner of the internet.
 
