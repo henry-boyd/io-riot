@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
+                "file": "blog/The Cost of Change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Internet Garbage Patch is Growing Larger Every Day"
+              "title": "The Cost of Change"
             }
           }
         ]
@@ -160,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc3e907030537b9",
+  "active": "4cd19b4da0918520",
   "lastOpenFiles": [
+    "Archive/Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem.md",
+    "Archive/The Cost of Change.md",
+    "blog/The Cost of Change.md",
     "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
     "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
     "blog/The Great Internet Garbage Patch is Growing Larger Every Day.md",
@@ -170,7 +173,6 @@
     "drafts/Crowdfunding Prophecy.md",
     "drafts/templates/dubious-charts-article-template.md",
     "blog/A24vod.md",
-    "blog/The Cost of Change.md",
     "drafts/Easing the Ritual.md",
     "drafts/templates/article-template.md",
     "drafts/How Should We Robot?.md",
