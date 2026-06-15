@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/The Graph Vibes Are Off (Dubious Charts).md",
+                "file": "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "The Graph Vibes Are Off (Dubious Charts)"
+              "title": "The Great Internet Garbage Patch is Growing Larger Every Day"
             }
           }
         ]
@@ -160,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cd19b4da0918520",
+  "active": "8dc3e907030537b9",
   "lastOpenFiles": [
+    "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
+    "drafts/The Great Internet Garbage Patch is Growing Larger Every Day.md",
     "blog/The Great Internet Garbage Patch is Growing Larger Every Day.md",
     "blog/The Graph Vibes Are Off (Dubious Charts).md",
     "blog/Lousy Gadgets are Shining a Spotlight on AI's Biggest Problem.md",
