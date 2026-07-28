@@ -1,7 +1,10 @@
 {
-  "name": "blue-orbit",
+  "name": "io-riot2",
   "type": "module",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=24.13.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -9,11 +12,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^7.0.4",
-    "@astrojs/rss": "^4.0.14",
-    "@astrojs/sitemap": "^3.6.1",
-    "astro": "^7.1.4",
-    "astro-pagefind": "^1.8.3",
-    "path-to-regexp": "^8.4.0"
+    "astro": "^7.1.4"
   }
 }
